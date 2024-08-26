@@ -1,0 +1,36 @@
+.feature {
+    background-color: #1c3c63;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    text-align: center;
+    margin: 10px;
+  }
+  p{
+    color: white;
+  }
+  
+  .feature h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .feature p {
+    font-size: 1rem;
+  }
+  
+  .feature button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #232f3e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .feature button:hover {
+    background-color: #42546b;
+  }
+  
